@@ -12,6 +12,7 @@
     <modules>
         <module>custom-annotation-aop</module>
         <module>spring-boot-with-h2</module>
+        <module>jpa-genericgenerator</module>
     </modules>
 
 
